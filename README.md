@@ -1353,15 +1353,6 @@
 
 这个列表是一个开始，先把独立博客们收集起来。欢迎加入 [Telegram 群](https://t.me/indieBlogs)一起思考和讨论如何构建这样一个工具。
 
-## Thanks
-
-- https://feedly.com
-- t9t.io community: https://wewe.t9t.io/chat/t9t.io%20community%202 https://wewe.t9t.io/chat/t9t.io%20community
-- https://github.com/DIYgod/RSSHub
-- https://ohmyrss.com/
-- https://github.com/tangqiaoboy/iOSBlogCN
-- https://www.zhihu.com/question/19928148
-
 ## 博客构建工具推荐
 
   - [Blogdown](https://github.com/rstudio/blogdown)
